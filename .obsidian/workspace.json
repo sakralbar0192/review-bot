@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proposal.md",
+                "file": "documantation/Proposal.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,16 +27,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "User Story Canvas.md",
+                "file": "documantation/User Story Canvas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "User Story Canvas"
             }
+          },
+          {
+            "id": "e00db188b80a9c56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "documantation/Feature List (список фич).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Feature List (список фич)"
+            }
+          },
+          {
+            "id": "44a2696e2c59b85f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "documantation/MVP Definition (определение MVP).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MVP Definition (определение MVP)"
+            }
+          },
+          {
+            "id": "c067422b646c608f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "documantation/Без названия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User Story Canvas.md",
+                "file": "documantation/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для User Story Canvas"
+              "title": "Обратные ссылки для Без названия"
             }
           },
           {
@@ -128,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "User Story Canvas.md",
+                "file": "documantation/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из User Story Canvas"
+              "title": "Исходящие ссылки из Без названия"
             }
           },
           {
@@ -171,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "User Story Canvas.md",
+                "file": "documantation/Без названия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура User Story Canvas"
+              "title": "Структура Без названия"
             }
           }
         ]
@@ -199,9 +241,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e290dbdba43185a3",
+  "active": "c067422b646c608f",
   "lastOpenFiles": [
-    "Proposal.md",
-    "User Story Canvas.md"
+    "documantation/Roadmap (дорожная карта).md",
+    "documantation/Без названия.md",
+    "documantation/MVP Definition (определение MVP).md",
+    "documantation/Feature List (список фич).md",
+    "documantation/User Story Canvas.md",
+    "documantation/Proposal.md"
   ]
 }
