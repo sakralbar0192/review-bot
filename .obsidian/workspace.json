@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documantation/Без названия.md",
+                "file": "documantation/Встречи/Встреча 1/Агенда первой встречи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Агенда первой встречи"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documantation/Без названия.md",
+                "file": "documantation/Встречи/Встреча 1/Агенда первой встречи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия"
+              "title": "Обратные ссылки для Агенда первой встречи"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documantation/Без названия.md",
+                "file": "documantation/Встречи/Встреча 1/Агенда первой встречи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Без названия"
+              "title": "Исходящие ссылки из Агенда первой встречи"
             }
           },
           {
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documantation/Без названия.md",
+                "file": "documantation/Встречи/Встреча 1/Агенда первой встречи.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура Агенда первой встречи"
             }
           }
         ]
@@ -241,10 +241,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c067422b646c608f",
+  "active": "e3a185398ae5ce44",
   "lastOpenFiles": [
+    "documantation/Встречи/Без названия.md",
+    "documantation/Встречи/Встреча 1",
+    "documantation/Встречи/Встреча 1/Агенда первой встречи.md",
+    "documantation/Встречи",
     "documantation/Roadmap (дорожная карта).md",
-    "documantation/Без названия.md",
     "documantation/MVP Definition (определение MVP).md",
     "documantation/Feature List (список фич).md",
     "documantation/User Story Canvas.md",
